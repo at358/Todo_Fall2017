@@ -5,4 +5,4 @@
 <p>As well as making friends while doing so</p>
 <p>Goodbye</p>
 
-<p>Hi there this is my git commit for my exam</p>
+<p>Hi this really is my git commit for my exam</p>
